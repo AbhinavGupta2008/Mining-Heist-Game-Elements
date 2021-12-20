@@ -1,3 +1,5 @@
+                                                                                     Minning Heist
+
 1)PC- the miner1,miner2
 
 2)NPC-the pieces of soil and metals 
